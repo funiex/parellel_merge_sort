@@ -39,7 +39,7 @@ Benchmark tests were conducted to compare the execution times of the standard Me
 
    ```bash
    git clone <repo-url>
-   cd parallelMergeSort/src/app
+   cd parallelMergeSort/app
    g++ main.cpp -o main
    ./main
    ```
